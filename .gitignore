@@ -1,5 +1,4 @@
 *
 /.vscode
-/task1
-/task1.dSYM
 !/*.cpp
+!/*.py
